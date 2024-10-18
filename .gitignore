@@ -1,2 +1,5 @@
 .cache
 .vs
+Triangle/x64/Debug
+x64
+.gitignore

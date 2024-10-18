@@ -1,1 +1,9 @@
-﻿
+﻿  Camera.cpp
+  Mesh.cpp
+C:\Users\andre\source\repos\Triangle\Triangle\Mesh.cpp(50,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  VAO.cpp
+C:\Users\andre\source\repos\Triangle\Triangle\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  main.cpp
+  Generating Code...
+  Triangle.vcxproj -> C:\Users\andre\source\repos\Triangle\x64\Debug\Triangle.exe
